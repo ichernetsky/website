@@ -40,6 +40,7 @@
 
 :root {
     --font-stack: Fira Code, monospace;
+    --mono-font-stack: Fira Code, monospace;
 }
 
 body {
